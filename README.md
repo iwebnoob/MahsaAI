@@ -1,4 +1,4 @@
-```markdown
+
 # MahsaAI
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -106,4 +106,4 @@ This project is licensed under the [MIT License](LICENSE). See the `LICENSE` fil
 For bug reports or feature requests, contact DIGI-X via:  
 - Telegram: [@velovpn](https://t.me/velovpn)  
 - Channel: [@DIGI_X](https://t.me/DIGI_X)
-```
+
