@@ -30,7 +30,7 @@ A smart Telegram bot with the personality of Mahsa, a 17-year-old student. Mahsa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MahsaAI.git
+   git clone https://github.com/iwebnoob/MahsaAI.git
    cd MahsaAI
    ```
 
@@ -47,7 +47,7 @@ A smart Telegram bot with the personality of Mahsa, a 17-year-old student. Mahsa
 
 4. Run the bot:
    ```bash
-   python mahsa.py
+   python MahsaAI.py
    ```
 
 ## Usage
@@ -68,7 +68,7 @@ A smart Telegram bot with the personality of Mahsa, a 17-year-old student. Mahsa
 
 ```
 MahsaAI/
-├── mahsa.py              # Main bot script
+├── MahsaAI.py              # Main bot script
 ├── requirements.txt      # Python dependencies
 ├── LICENSE               # MIT License
 └── README.md             # This file
